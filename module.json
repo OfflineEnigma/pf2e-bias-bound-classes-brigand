@@ -3,8 +3,8 @@
   "title": "PF2e - Bias-Bound Classes: Brigand",
   "version": "#{VERSION}#",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "14",
+    "verified": "14"
   },
   "relationships": {
     "systems": [
@@ -15,6 +15,8 @@
       }
     ]
   },
+  "esmodules": ["pf2e-bias-bound-classes-brigand.js"],
+	"styles": [],
   "description": "A foundry module containing everything from the Bias-Bound Classes Volume 1: The Brigand supplement.\n\nhttps://www.pathfinderinfinite.com/product/441030/BiasBound-Classes-Volume-1-The-Brigand",
   "authors": [
     {
@@ -27,6 +29,10 @@
       "email": "enigmahomebrew@gmail.com",
       "discord": "offlineenigma",
       "flags": {}
+    },
+    {
+      "name": "Cerapter",
+      "discord": "cerapter"
     }
   ],
   "packFolders": [
